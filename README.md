@@ -2,15 +2,22 @@
 ## Đây là website bán giày
 
 <hr>
+
 ### Công nghệ sử dung
    - ___ReduxToolkit___
+
 <hr>
+
 ### Để sử dụng project thì
+
    - Clone project bằng lệnh sao
+   
 ```shell
    git clone https://github.com/Tran-Duoc/Nike_App.git
 ```
+
    - Sao khi clone xong 
+
 ```shell
    cd src
    npm install
